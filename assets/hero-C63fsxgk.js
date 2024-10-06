@@ -4,7 +4,6 @@ import{a as aw,r as J,g as mM}from"./vendor-B04UmgXG.js";import{j as Xe,h as lw,
  * SPDX-License-Identifier: MIT
  
  */
-const cw = "modulepreload",
       uw = function(i) { return "/" + i },
       ky = {},
       sk = function(e, t, n) {
